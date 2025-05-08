@@ -1,2 +1,3 @@
-# Telugu_document_summariser
-Telugu document summariser with multilingual support using mt5
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
